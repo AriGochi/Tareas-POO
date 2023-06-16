@@ -9,5 +9,5 @@ def main():
     al2 = Alumno("JOse", 19,"324443", "iCO", 9)
     al2.nombre = "Pepe"
     print(vars(al2))
-    
+
 main()
